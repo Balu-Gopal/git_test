@@ -1,0 +1,1 @@
+This is a trial repository added to my GitHub to learn about using Git and GitHub as a part of learning in the Odin Project.
